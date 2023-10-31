@@ -20,7 +20,7 @@ export default function Footer() {
                   </svg>
                 </Link>
               </div>
-              <div className="text-gray-400">Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.</div>
+              <div className="text-gray-400">B-fit glasses for Visual Impaired.</div>
             </div>
 
             {/* 2nd, 3rd and 4th blocks */}
@@ -31,19 +31,13 @@ export default function Footer() {
                 <h6 className="text-gray-200 font-medium mb-1">Products</h6>
                 <ul>
                   <li className="mb-1">
-                    <Link href="/" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Web Studio</Link>
-                  </li>
-                  <li className="mb-1">
-                    <Link href="/" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">DynamicBox Flex</Link>
-                  </li>
-                  <li className="mb-1">
-                    <Link href="/" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Programming Forms</Link>
+                    <Link href="/" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">B-fit</Link>
                   </li>
                 </ul>
               </div>
 
               {/* 3rd block */}
-              <div className="text-sm">
+              {/* <div className="text-sm">
                 <h6 className="text-gray-200 font-medium mb-1">Resources</h6>
                 <ul>
                   <li className="mb-1">
@@ -62,10 +56,10 @@ export default function Footer() {
                     <Link href="/" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Nostrud exercitation</Link>
                   </li>
                 </ul>
-              </div>
+              </div> */}
 
               {/* 4th block */}
-              <div className="text-sm">
+              {/* <div className="text-sm">
                 <h6 className="text-gray-200 font-medium mb-1">Company</h6>
                 <ul>
                   <li className="mb-1">
@@ -84,7 +78,7 @@ export default function Footer() {
                     <Link href="/" className="text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">Consectetur adipiscing</Link>
                   </li>
                 </ul>
-              </div>
+              </div> */}
 
             </div>
 
@@ -135,7 +129,7 @@ export default function Footer() {
             </ul>
 
             {/* Copyrights note */}
-            <div className="text-gray-400 text-sm mr-4">&copy; Cruip.com. All rights reserved.</div>
+            <div className="text-gray-400 text-sm mr-4">&copy; B-fit.com. All rights reserved.</div>
 
           </div>
 

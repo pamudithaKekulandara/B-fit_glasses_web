@@ -7,7 +7,7 @@ export default function Features() {
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
             <h2 className="h2 mb-4">What we provide.</h2>
-            <p className="text-xl text-gray-400">these are the features include in the B-fit glasses.</p>
+            <p className="text-xl text-gray-400">these are features include in the B-fit glasses.</p>
           </div>
 
           {/* Items */}
@@ -21,7 +21,7 @@ export default function Features() {
                 <path className="stroke-current text-purple-300" d="M43 42h-9M43 37h-9" strokeLinecap="square" strokeWidth="2" />
               </svg>
               <h4 className="h4 mb-2">Known person detection</h4>
-              <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+              <p className="text-lg text-gray-400 text-center">B-Fit glasses provide facial recognition to identify people and voice output their names, aiding social interaction and assisted living for the visually impaired. Existing applications struggle in low-resolution environments and complexity, making it hard for blind individuals to recognize familiar faces. B-Fit glasses offer a user-friendly solution, addressing these challenges effectively.</p>
             </div>
 
             {/* 2nd item */}
@@ -32,7 +32,8 @@ export default function Features() {
                 <path className="stroke-current text-purple-300" d="M26 28h12M26 32h12M26 36h5" strokeWidth="2" strokeLinecap="square" />
               </svg>
               <h4 className="h4 mb-2">Voice Assistance</h4>
-              <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+              <p className="text-lg text-gray-400 text-center">B-Fit Glasses are designed to improve eyewear for the visually impaired. They recognize voice commands for hands-free operation and voice interaction, transforming them into user-friendly, interactive devices..
+              </p>
             </div>
 
             {/* 3rd item */}
@@ -46,7 +47,7 @@ export default function Features() {
                 </g>
               </svg>
               <h4 className="h4 mb-2">Object detection</h4>
-              <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+              <p className="text-lg text-gray-400 text-center">Object Detection is advanced technology that identifies and locates objects in images or videos using machine learning and computer vision. It enhances assists visually impaired users in recognizing everyday objects.</p>
             </div>
 
             {/* 4th item */}
@@ -59,7 +60,7 @@ export default function Features() {
                 </g>
               </svg>
               <h4 className="h4 mb-2">Sign detection</h4>
-              <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+              <p className="text-lg text-gray-400 text-center">Sign Detection uses deep learning and computer vision to recognize various signs and symbols. It's a crucial feature in our smart glass system, providing real-time information on traffic signs, directions, and more, empowering visually impaired users</p>
             </div>
 
             {/* 5th item */}
@@ -72,7 +73,7 @@ export default function Features() {
                 </g>
               </svg>
               <h4 className="h4 mb-2">Money detection</h4>
-              <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+              <p className="text-lg text-gray-400 text-center">B-Fit glasses has the feature currency recognition is to provide people who are blind the capacity to recognize and differentiate between different currency note denominations, allowing them to carry out financial transactions more easily and independently.</p>
             </div>
 
             {/* 6th item */}
@@ -86,7 +87,7 @@ export default function Features() {
                 </g>
               </svg>
               <h4 className="h4 mb-2">Document read</h4>
-              <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+              <p className="text-lg text-gray-400 text-center">B-Fit glasses enable persons with visual impairments to read and recognize printed materials on their own. The use of smart glasses for document recognition has the potential to greatly improve the lives of people with visual impairments and foster a more open and inclusive society.</p>
             </div>
 
           </div>
