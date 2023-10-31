@@ -21,7 +21,7 @@ export default function Features() {
                 <path className="stroke-current text-purple-300" d="M43 42h-9M43 37h-9" strokeLinecap="square" strokeWidth="2" />
               </svg>
               <h4 className="h4 mb-2">Known person detection</h4>
-              <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+              <p className="text-lg text-gray-400 text-center">B-Fit glasses capture the features of the face and identify the person properly and provide a voice output of the person name through the system. The goal of this is social interaction, and ambient assisted living. This provides the user with a comprehensive and effective solution for navigating their environment and interacting with others. Even if the solutions are already declared, there are problems when identifying people in low resolution environments because of the limitations of existing applications. And some of the systems are too complexed and therefore the blind person should go through difficult situation while identifying his/ her known persons. The above-mentioned problems are addressed by the solution.</p>
             </div>
 
             {/* 2nd item */}
@@ -46,7 +46,7 @@ export default function Features() {
                 </g>
               </svg>
               <h4 className="h4 mb-2">Object detection</h4>
-              <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+              <p className="text-lg text-gray-400 text-center">Object Detection is advanced technology that identifies and locates objects in images or videos using machine learning and computer vision. It enhances assists visually impaired users in recognizing everyday objects.</p>
             </div>
 
             {/* 4th item */}
@@ -59,7 +59,7 @@ export default function Features() {
                 </g>
               </svg>
               <h4 className="h4 mb-2">Sign detection</h4>
-              <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+              <p className="text-lg text-gray-400 text-center">Sign Detection uses deep learning and computer vision to recognize various signs and symbols. It's a crucial feature in our smart glass system, providing real-time information on traffic signs, directions, and more, empowering visually impaired users</p>
             </div>
 
             {/* 5th item */}
