@@ -197,11 +197,11 @@ const pr = [
     docSrc: 'https://cdn-icons-png.flaticon.com/512/9892/9892706.png',
     },
       {
-    id: 3,
-    name: 'IT20279370',
-    href: 'https://mysliit.sharepoint.com/:b:/s/CDAPSubmissionCloud/EcnbLI11CBlJl78kPiZXDsYBj9h2uEv9PuhbSdqnc3IMpA?e=JDveX0',
-    docSrc: 'https://cdn-icons-png.flaticon.com/512/9892/9892706.png',
-    },
+  id: 3,
+  name: 'IT20279370',
+  href: 'https://mysliit.sharepoint.com/:b:/s/CDAPSubmissionCloud/EcnbLI11CBlJl78kPiZXDsYBj9h2uEv9PuhbSdqnc3IMpA?e=JDveX0',
+  docSrc: 'https://cdn-icons-png.flaticon.com/512/9892/9892706.png',
+   },
        {
     id: 4,
     name: 'IT20226282',
