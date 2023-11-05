@@ -20,7 +20,7 @@ const architects_daughter = Architects_Daughter({
 
 export const metadata = {
   title: 'B-fit',
-  description: 'B-fit glass web',
+  description: 'B-fit glass web-site',
 }
 
 export default function RootLayout({
