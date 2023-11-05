@@ -4,7 +4,7 @@ const prd = [
   {
     id: 1,
     name: 'Project Chater',
-    href: '#',
+    href: 'https://mysliit.sharepoint.com/:w:/s/CDAPSubmissionCloud/EfuSS_F_BTZEqnPODW9SNOABkpEiYSOblMfy4OhoPRiK3A?e=rLdTFj',
     docSrc: 'https://cdn-icons-png.flaticon.com/512/9892/9892706.png',
     },
      {
@@ -16,7 +16,7 @@ const prd = [
       {
     id: 3,
     name: 'Project Cover Sheet',
-    href: '#',
+    href: 'https://mysliit.sharepoint.com/:b:/s/CDAPSubmissionCloud/EVWQwmy0tapPivQfkNdOlpkB2qI810H-h6aTbp8Ay6JKwQ?e=qRm2pa',
     docSrc: 'https://cdn-icons-png.flaticon.com/512/9892/9892706.png',
   },
   // More products...
@@ -81,19 +81,19 @@ const frp = [
   {
     id: 1,
     name: 'presentation',
-    href: '#',
+    href: 'https://mysliit.sharepoint.com/:p:/s/CDAPSubmissionCloud/EUb566IxlZ5Fk1-iRQ0Q1xEBPcfWIzmNlFRBpqH7whepJQ?e=NZ8XMP',
     docSrc: 'https://cdn-icons-png.flaticon.com/512/9892/9892706.png',
     },
      {
     id: 1,
     name: 'User manual',
-    href: '#',
+    href: 'https://mysliit.sharepoint.com/:b:/s/CDAPSubmissionCloud/EetgPIRQ0B1Hp7aYInKZZTsBJF8YBOSCeoesoF_85tT6Jw?e=hDvt3K',
     docSrc: 'https://cdn-icons-png.flaticon.com/512/9892/9892706.png',
     },
       {
     id: 1,
     name: 'Business plan',
-    href: '#',
+    href: 'https://mysliit.sharepoint.com/:p:/s/CDAPSubmissionCloud/EUb566IxlZ5Fk1-iRQ0Q1xEBPcfWIzmNlFRBpqH7whepJQ?e=NZ8XMP',
     docSrc: 'https://cdn-icons-png.flaticon.com/512/9892/9892706.png',
     }
   // More products...
@@ -103,25 +103,37 @@ const lb = [
   {
     id: 1,
     name: 'IT20255824',
-    href: '#',
+    href: 'https://mysliit.sharepoint.com/:b:/s/CDAPSubmissionCloud/EedYSzlit_BImNmK4jUelm0BWc0QchH77dDhOKRXTAUAgQ?e=mVT4lb',
     docSrc: 'https://cdn-icons-png.flaticon.com/512/9892/9892706.png',
     },
      {
     id: 2,
     name: 'IT20256814',
-    href: '#',
+    href: 'https://mysliit.sharepoint.com/:b:/s/CDAPSubmissionCloud/EXRWC4ipDDpIkN2t1kbOrwEBp09x4qnvehjaltcU0Qi7fw?e=OyaAkx',
     docSrc: 'https://cdn-icons-png.flaticon.com/512/9892/9892706.png',
     },
       {
     id: 3,
     name: 'IT20279370',
-    href: '#',
+    href: 'https://mysliit.sharepoint.com/:b:/s/CDAPSubmissionCloud/ESLWPaZQ0j5KqJnA78Zk7G4BqfeEx3ikdTRgrrma01LdWQ?e=LTcA3G',
     docSrc: 'https://cdn-icons-png.flaticon.com/512/9892/9892706.png',
     },
        {
     id: 4,
-    name: 'IT2022',
-    href: '#',
+    name: 'IT20226282',
+    href: 'https://mysliit.sharepoint.com/:b:/s/CDAPSubmissionCloud/EX3Pk5sJWFdCis0Pn4bovr4BHN0c-DOCqcUJVeL3sqU8tw?e=Hdo5oc',
+    docSrc: 'https://cdn-icons-png.flaticon.com/512/9892/9892706.png',
+  },
+        {
+    id: 4,
+    name: 'GitLab Screenshots',
+    href: 'https://mysliit.sharepoint.com/:f:/s/CDAPSubmissionCloud/EmfR-AbR9pNJsuRD3IWHh34BzkCRjcYGrFIagsCE1iP2yA?e=6XQ02v',
+    docSrc: 'https://cdn-icons-png.flaticon.com/512/9892/9892706.png',
+  },
+         {
+    id: 4,
+    name: 'MS Teams Screenshots',
+    href: 'https://mysliit.sharepoint.com/:f:/s/CDAPSubmissionCloud/EkelVTcORk5BprgQXz9QlgcBRIN0IV_Q40HX5RMuVQuojg?e=OAfkdi',
     docSrc: 'https://cdn-icons-png.flaticon.com/512/9892/9892706.png',
   }
 ]
@@ -132,25 +144,25 @@ const sd2 = [
   {
     id: 1,
     name: 'IT20255824',
-    href: '#',
+    href: 'https://mysliit.sharepoint.com/:b:/s/CDAPSubmissionCloud/EbyacYwi-j9FsLpqPgv9084Bdb1_3Ub_X-mjbR_F9JE3fg?e=shcXg4',
     docSrc: 'https://cdn-icons-png.flaticon.com/512/9892/9892706.png',
     },
      {
     id: 2,
     name: 'IT20256814',
-    href: '#',
+    href: 'https://mysliit.sharepoint.com/:b:/s/CDAPSubmissionCloud/EWjim2p9fuZOgyldswnoA5QBSxqRI4PQz45zTjrCbt0G5w?e=WqodOj',
     docSrc: 'https://cdn-icons-png.flaticon.com/512/9892/9892706.png',
     },
       {
     id: 3,
     name: 'IT20279370',
-    href: '#',
+    href: 'https://mysliit.sharepoint.com/:b:/s/CDAPSubmissionCloud/EVWqDYwoO8VAtMEvK3hAL6UBDk5jSd5fnVk25ECswY_6Tw?e=Wwlhrn',
     docSrc: 'https://cdn-icons-png.flaticon.com/512/9892/9892706.png',
     },
        {
     id: 4,
-    name: 'IT2022',
-    href: '#',
+    name: 'IT20226282',
+    href: 'https://mysliit.sharepoint.com/:b:/s/CDAPSubmissionCloud/EUIePP2NTaBKq4lV99aqalMBjZ2h46vUnwlQQTmj3XRstg?e=DlQzLa',
     docSrc: 'https://cdn-icons-png.flaticon.com/512/9892/9892706.png',
   }
 ]
